@@ -13,7 +13,7 @@ An additional proof of concept demonstrates successful communication with a real
 
 ## 1. Project Architecture
 
-![eLearnGrapher xAPI Architecture](images/pipeline-architecture.png)
+![eLearnGrapher xAPI Architecture](images/Architecture xAPI d’eLearnGrapher.png)
 
 ### Workflow
 
