@@ -1,0 +1,26 @@
+
+# Private learner data
+*.sqlite
+*.sqlite3
+*.db
+xapi_statements.json
+
+# Credentials
+.env
+.env.*
+!.env.example
+*credentials*
+*secrets*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Local files
+*.log
+.DS_Store
